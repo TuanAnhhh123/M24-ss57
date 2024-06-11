@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "minh",
+      "email": "minh@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "nhi",
+      "email": "nhi@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "huyền",
+      "email": "thu@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "thu",
+      "email": "thu@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "thu",
+      "email": "thu@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "thu",
+      "email": "thu@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "thu",
+      "email": "thu@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "thu",
+      "email": "thu@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "thu",
+      "email": "thu@gmail.com"
+    },
+    {
+      "id": 11,
+      "name": "thu",
+      "email": "thu@gmail.com"
+    },
+    {
+      "id": 12,
+      "name": "thu",
+      "email": "thu@gmail.com"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "student_name": "Nguyen Van A",
+      "email": "nguyenvana@example.com",
+      "address": "123 Le Loi, Hanoi",
+      "phone": "0123456789",
+      "status": true,
+      "created_at": "2023-06-11T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "student_name": "Tran Thi B",
+      "email": "tranthib@example.com",
+      "address": "456 Tran Hung Dao, Ho Chi Minh",
+      "phone": "0987654321",
+      "status": false,
+      "created_at": "2023-06-12T00:00:00Z"
+    }
+  ]
+}
